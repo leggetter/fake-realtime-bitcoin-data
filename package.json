@@ -1,0 +1,12 @@
+{
+  "name": "trigger-data",
+  "private": true,
+  "version": "0.0.1",
+  "dependencies": {
+    "pusher": ">= 0.1.3"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}

@@ -1,0 +1,5 @@
+runtime "node"
+exec "trigger.js"
+dir "node_modules" # include dependency files when uploading
+file "package.json" # include dependency manifest when uploading
+file "config.json"
